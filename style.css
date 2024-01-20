@@ -1,0 +1,1134 @@
+@media screen and (width <=850px) {
+    header {
+        padding: 15px 60px;
+    }
+
+    .logo img {
+        width: 100px;
+        height: 30px;
+    }
+
+    .btn button {
+        padding: 6px 6px;
+        font-size: 1.6vw;
+        border-radius: 9px;
+    }
+
+    .list-items ul {
+        gap: 20px;
+    }
+
+    ul li {
+        font-size: 1.1vw;
+        font-weight: bold;
+    }
+
+    .list-news {
+        padding: 8px 13px;
+    }
+
+    /* hero section begin */
+    .hero {
+        padding: 102px 60px;
+    }
+
+    .hero-text {
+        gap: 40px;
+    }
+
+    .hero-heading {
+        font-size: 2.14;
+        letter-spacing: -1px;
+    }
+
+    .hero-text-head h1 {
+        font-size: 4.28;
+        letter-spacing: -1px;
+    }
+
+    .hero-text-para p {
+        font-size: 1.1vw;
+        margin-top: -7px;
+    }
+
+    footer {
+        padding: 50px 60px;
+    }
+
+    .footer-list-5 {
+        justify-content: center;
+    }
+
+    .footer-list-5 ul li .discover-2 .discover-btn {
+        padding: 5px 8px;
+        /* font-size: 5px; */
+        font-size: 1vw;
+
+
+    }
+
+    .news {
+        padding: 2px 5px;
+        border-radius: 5px;
+    }
+
+    /* discover section begin */
+    .discover {
+        padding: 70px 60px;
+    }
+
+    .discover-1 {
+        line-height: 30px;
+    }
+
+    .discover-1 a {
+        font-size: 2vw;
+    }
+
+    .discover-1 h2 {
+        font-size: 3vw;
+    }
+
+    .discover-btn {
+        padding: 8px 16px;
+        font-size: 1.2vw;
+    }
+
+    /* projects */
+
+    /* service section begin */
+    .service {
+        padding: 70px 70px;
+        gap: 30px;
+    }
+
+    .service-img img {
+        width: 280px;
+        /* height: 290px; */
+    }
+
+    .videos {
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-bottom: min(3rem, 2rem);
+        padding-top: min(3rem, 2rem);
+    }
+
+    .video-content-1:not(p) h4,
+    .video-content-2 h4 {
+        line-height: 1.2;
+    }
+
+    /* .client section begin */
+    .client {
+        padding: 60px 60px;
+    }
+
+    .client-img-2 p {
+        font-size: 1.2vw;
+    }
+
+    .client-heading {
+        gap: 20px;
+        margin-left: -30px;
+    }
+
+    .client-birth {
+        font-size: 2vw;
+    }
+
+    .client-content h3 {
+        font-size: 2vw;
+    }
+
+    .client-content p {
+        font-size: 1.6vw;
+        width: 300px;
+    }
+
+    .client-btn-1,
+    .client-btn-2,
+    .client-btn-3 {
+        padding: 0px 10px;
+        border-radius: 50px;
+        font-size: 2vw;
+    }
+
+    .client .discover-btn {
+        padding: 1vw 2.5vw 1vw;
+        width: 15vw;
+
+
+    }
+
+    .client .discover-btn p {
+        font-size: 2vw;
+        letter-spacing: 1px;
+    }
+
+    .client .discover-btn img {
+        width: 10px;
+        margin-bottom: 5px;
+        margin-left: 3px;
+    }
+
+    .service {
+        padding: 80px 70px;
+        gap: 40px;
+    }
+
+    .service-img img {
+        height: 320px;
+    }
+
+    .service-text {
+        gap: 15px;
+        /* border: 1px solid red; */
+    }
+
+    .service-heading h4 {
+        font-size: 1.6vw;
+    }
+
+    .service-heading p {
+        font-size: 1.2vw;
+    }
+
+    .service-content-1 {
+        font-size: 1.3vw;
+        gap: 50px;
+    }
+
+    .service-content-2 {
+        font-size: 1.3vw;
+        gap: 30px;
+    }
+
+    .client-btn-1 {
+        padding: 3px 6px;
+        border-radius: 21px;
+    }
+
+    .client-btn-2 {
+        padding: 0px 13px;
+        font-size: 2vw;
+    }
+
+    .client-btn-3 {
+        padding: 0px 15px;
+    }
+
+    .client .discover-2 .discover-btn p {
+        font-size: 1vw;
+    }
+
+    .slider {
+        padding: 50px 70px;
+        /* font-size: clamp(10px,2vw + 1,2px); */
+
+
+    }
+
+    .slider div {
+        padding: 12px min(17px);
+    }
+
+    /* technology section begin */
+    .technology {
+        padding: 80px 70px 30px;
+    }
+
+    .technology-1 {
+        align-items: center;
+        transform: translateY(6px);
+    }
+
+    .technology-1 img {
+        width: 10vw;
+        height: auto;
+    }
+
+    .technology-2 a {
+        font-size: 2vw;
+        padding: 4px;
+    }
+
+    .technology-2 {
+        line-height: 4;
+    }
+
+    .technology-2 h2 {
+        font-size: 4vw;
+        line-height: 1;
+    }
+
+    .technology-2 p {
+        font-size: 1.9vw;
+        letter-spacing: 0px;
+    }
+
+    /* three boxes */
+    .three-boxes {
+        padding: 30px 70px 100px;
+    }
+
+    .box-1 div img,
+    .box-2 div img,
+    .box-3 div img {
+        width: 1.3vw;
+    }
+
+
+    .box-1,
+    .box-2,
+    .box-3 {
+        padding: 5px;
+    }
+
+    .box-1 p,
+    .box-2 p,
+    .box-3 p {
+        font-size: 1.4vw;
+        letter-spacing: 0px;
+    }
+
+    /* projects section begin */
+    .projects {
+        padding: 60px 70px 0px 70px;
+        padding-bottom: max(.1vw, .1vw);
+    }
+
+    .projects-r {}
+
+    .projects-1-content h3,
+    .projects-2-content h3,
+    .projects-3-content h3 {
+        font-size: 1.4vw;
+        line-height: 1.2;
+        font-weight: 0;
+    }
+
+    .projects-2 {
+        /* border: 1px solid red; */
+        margin-left: 15px;
+    }
+
+    .projects-1-content p,
+    .projects-2-content p,
+    .projects-3-content p {
+        font-size: 1.2vw;
+    }
+
+    .projects-3-content:not(.projects-3-icons) {
+        line-height: 5;
+        box-sizing: border-box;
+    }
+
+    .projects-3-icons {
+        /* margin-bottom: 20px; */
+        transform: translateY(-10px);
+    }
+
+    .projects-2-icons {
+        width: 100%;
+    }
+}
+
+    @media screen and (width < 700px) {
+        .client {
+            display: grid;
+            /* margin-inline: auto; */
+            padding: 60px 70px 0px;
+            /* padding-bottom: unset; */
+            position: relative;
+        }
+
+        .client-img-1 img {
+            width: 7vw;
+        }
+
+        .client-img-2 h4 {
+            font-size: 2.2vw;
+            width: 300px;
+
+        }
+
+        .client-heading {
+            display: grid;
+            gap: 0px;
+            margin: 0;
+        }
+
+        .client-birth {
+            font-size: 3vw;
+        }
+
+        .client-content h3 {
+            font-size: 3vw;
+        }
+
+        .client-content p {
+            font-size: 2vw;
+            width: 320px;
+        }
+
+        .client-btn-1 img,
+        .client-btn-2 img,
+        .client-btn-3 img {
+            width: 2vw;
+            /* border: 1px solid red; */
+
+        }
+
+        .client-btn-1 {
+            padding: 0px 10px;
+            box-sizing: border-box;
+            border-radius: 12px;
+            height: 50px;
+            /* border: 1px solid red; */
+        }
+
+        .client-btn-2 {
+            padding: 0px 12px;
+            height: 50px;
+
+            border-radius: 12px;
+            font-size: 2vw;
+        }
+
+        .client-btn-3 {
+            height: 50px;
+            border-radius: 12px;
+            padding: 0px 15px;
+        }
+
+        .client .discover-btn {
+            padding: 8px 20px;
+            font-size: 1.4vw;
+            margin-top: 20px;
+            display: flex;
+            position: absolute;
+            top: 10%;
+            left: 76%;
+            justify-content: center;
+        }
+
+        .client .discover-btn img {
+            width: 2vw;
+            transform: translateY(3px);
+        }
+
+        .projects {
+            padding: 60px 70px;
+            /* border: 1px solid red; */
+            height: auto;
+
+        }
+
+        .projects-r {
+            grid-template-columns: auto;
+            grid-template-rows: auto auto auto;
+
+        }
+
+        .primary-images {
+            min-width: 100%;
+        }
+
+        .projects-1-image {
+            height: 37vw;
+        }
+
+        .projects-1-content {
+            width: 100%;
+        }
+
+        .projects-1-content h3,
+        .projects-2-content h3,
+        .projects-3-content h3 {
+            font-size: 3vw;
+            width: 100%;
+        }
+
+        .projects-1-content p,
+        .projects-2-content p,
+        .projects-3-content p {
+            font-size: 2.5vw;
+        }
+
+        .projects-2 {
+            margin-left: 0;
+        }
+
+        .projects-1-icons {
+            width: 100%;
+        }
+
+        .projects-subscription-likes img,
+        .projects-subscription-comments img,
+        .projects-subscription-likes-2 img,
+        .projects-subscription-comments-2 img,
+        .projects-subscription-likes-3 img,
+        .projects-subscription-comments-3 img {
+            width: 3vw;
+        }
+
+        .projects-subscription-likes p,
+        .projects-subscription-comments p,
+        .projects-subscription-likes-2 p,
+        .projects-subscription-comments-2 p,
+        .projects-subscription-likes-3 p,
+        .projects-subscription-comments-3 p {
+            font-size: 2.5vw;
+        }
+
+        .projects-subscription-2,
+        .projects-subscription-22,
+        .projects.subscription-32 {
+            font-size: 2vw;
+        }
+
+        .projects-subscription-32 p {
+            font-size: 2vw;
+        }
+
+        .projects-subscription-32 img {
+            width: 2vw;
+        }
+
+        .projects-subscription-2 img,
+        .projects-subscription-22 img,
+        .projects.subscription-32 img {
+            width: 2vw;
+        }
+
+
+        .service {
+            padding: 80px 70px;
+            display: block;
+        }
+
+        .service-img img {
+            width: 100%;
+        }
+
+        .service-heading h4 {
+            font-size: 4vw;
+        }
+
+        .service-heading p {
+            font-size: 2.4vw;
+            font-weight: 500;
+            letter-spacing: 1px;
+        }
+
+        .service-content-1 {
+            font-size: 2vw;
+        }
+
+        .service-content-2 {
+            font-size: 2vw;
+
+        }
+
+        .slider {
+            font-size: 1.4vw;
+
+        }
+
+        .slider div {
+            padding: 10px min(15px);
+        }
+
+        .three-boxes {
+            padding: 20px 70px 100px;
+            display: flex;
+            place-content: center;
+        }
+
+        .three-content-box {
+            display: grid;
+            gap: 10px;
+            grid-template-rows: 100% 100% 100%;
+            grid-template-columns: auto;
+            padding: 20px 10px;
+            place-content: center;
+            width: 70%;
+            /* padding:auto ; */
+
+        }
+
+        .box-1,
+        .box-2,
+        .box-3 {
+            padding: 10px 10px;
+            /* width: 100%; */
+
+        }
+
+        .box-1-heading,
+        .box-2-heading,
+        .box-3-heading {
+
+            font-size: 3vw;
+        }
+
+        .box-1-heading div img,
+        .box-2-heading div img,
+        .box-3-headingdiv img {
+            width: 2vw;
+        }
+
+        .box-1-heading div,
+        .box-2-heading div,
+        .box-3-heading div {
+            width: 4vw;
+            height: 4vw;
+        }
+
+        .box-1 p,
+        .box-2 p,
+        .box-3 p {
+            font-size: 2vw;
+        }
+    }
+
+    @media screen and (width <=650px) {
+        header {
+            padding: 15px 40px;
+        }
+
+        .logo img {
+            width: 70px;
+            height: 20px;
+        }
+
+        ul li {
+            font-size: 1.3vw;
+        }
+
+        .list-news {
+            padding: 5px 11px;
+
+        }
+
+        /* .hero section begin */
+        .hero {
+            padding: 95px 40px;
+        }
+
+        .hero-text {
+            gap: 30px;
+        }
+
+        .hero-text-para p {
+            font-size: 1.3vw;
+            margin-top: -12px;
+        }
+
+            .projects {
+                padding: 50px 40px;
+            }
+        /* .discover section begin */
+        .discover {
+            padding: 50px 40px;
+        }
+
+        .discover-1 {
+            line-height: 25px;
+        }
+
+        .discover-1 a {
+            font-size: 1.9vw;
+        }
+
+        .discover-1 h2 {
+            font-size: 3.2vw;
+            line-height: 1.3;
+            letter-spacing: 1px;
+        }
+
+        .discover-btn {
+            padding: 5px 10px;
+            font-size: 1.5vw;
+        }
+
+        .client {
+            padding: 50px 40px 0px 40px;
+            position: relative;
+            margin-inline: auto;
+        }
+
+        .client-img img {
+            width: 80px;
+        }
+
+        .client-img-2 h4 {
+            font-size: 3vw;
+
+        }
+
+        .client-img-2 p {
+            font-size: 2vw;
+        }
+
+
+        .client .discover-btn p {
+            font-size: 2vw;
+            letter-spacing: 1.3px;
+
+        }
+
+        .client-content h3 {
+            width: 100%;
+            font-size: 4vw;
+        }
+
+        .client-content p {
+            /* width: 80%; */
+            letter-spacing: 0.5px;
+            font-size: 3vw;
+        }
+
+        .client-btn {
+            transform: translateY(26px);
+        }
+
+        .client-btn-1 img,
+        .client-btn-2 img,
+        .client-btn-3 img {
+            width: 3vw;
+        }
+
+        .client-btn-1 {
+            padding-top: 0px;
+            font-size: 3vw;
+            border-radius: 60px
+        }
+
+        .client-btn-2 {
+            padding-top: 0px;
+            padding: 0px 15px;
+            font-size: 3vw;
+            border-radius: 30px
+        }
+
+        .client-btn-3 {
+            padding-top: 0px;
+            padding: 0px 15px;
+            font-size: 3vw;
+            border-radius: 50px
+        }
+
+        .client .discover-btn {
+            font-size: 2.5vw;
+            position: absolute;
+            top: 10%;
+            padding: 7px 19px;
+            left: 74%;
+            top: 56px;
+        }
+
+        .client .discover-2 .discover-btn p {
+            font-size: 1.5vw;
+            /* width: 290px; */
+            /* text-align: justify; */
+
+        }
+
+        
+        .service {
+            padding: 70px 40px;
+        }
+
+        .slider {
+            padding: 40px 40px;
+        }
+
+        .slider div {
+            font-size: 1.4vw;
+            font-weight: bold;
+        }
+        
+        /* video */
+        .videos {
+            padding-left: 40px;
+            padding-right: 40px;
+            padding-top: min(2rem, 3rem);
+            padding-bottom: min(2rem, 3rem);
+            display: flex;
+            border: none;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .videos::after {
+            border: none;
+        }
+
+        .primary-video {
+            width: 100%;
+        }
+        
+        .video-section-1,
+        .video-section-2 {
+            width: 70%;
+            padding-bottom: 15px;
+            border-bottom: 1px solid var(--Dark-15, #262626);
+            
+            
+            display: grid;
+            place-items: center;
+        }
+
+        .video-content-1 h4,
+        .video-content-2 h4 {
+            font-size: 3vw;
+        }
+
+        .video-content-1 p,
+        .video-content-2 p {
+            font-size: 2.5vw;
+        }
+
+
+        .technology {
+            padding: 30px 40px 0px;
+            flex-direction: column;
+            position: relative;
+            gap: 0;
+        }
+        
+        .technology-1 img {
+            width: 18vw;
+            height: auto;
+        }
+        
+        .technology-2 {
+            width: 90%;
+            /* height: 100px; */
+
+        }
+        
+        .technology-2 a {
+            position: relative;
+            top: -110px;
+            left: 35%;
+            /* border: 1px solid red; */
+            font-size: 3vw;
+            padding: 5px 5px;
+            
+            /* height: unset; */
+        }
+
+        .technology-2 .tech-hp {
+            /* line-height: 1.8px; */
+            transform: translateY(-60px)
+        }
+        
+        .technology-2 h2 {
+            font-size: 6vw;
+            line-height: 1;
+        }
+        
+        .technology-2 p {
+            font-size: 2.4vw;
+            transform: translateY(10px);
+        }
+
+        .three-content-box {
+            padding: 10px;
+        }
+
+        .three-boxes {
+            padding: 20px 40px 80px;
+        }
+
+        footer {
+            padding: 40px 40px;
+        }
+        
+        .footer-list-5 {
+            width: 100%;
+        }
+        
+        .footer-list-1 ul li,
+        .footer-list-2 ul li,
+        .footer-list-3 ul li,
+        .footer-list-4 ul li {
+            font-size: 1.5vw;
+        }
+        
+        .footer-list-5 ul li .discover-2 .discover-btn {
+            font-size: 10px;
+            padding: 4px 15px;
+        }
+
+        .footer-list-5 ul {
+            display: grid;
+            /* flex-wrap: wrap; */
+            grid-template-columns: auto auto auto;
+        }
+    }
+
+    @media screen and (width < 450px) {
+        header {
+            padding: 15px 20px;
+        }
+
+        .logo img {
+            width: 50px;
+            height: 15px;
+        }
+
+        ul li {
+            font-weight: unset;
+        }
+
+        .hero {
+            padding: 75px 20px;
+        }
+
+        .hero-heading {
+            font-size: 3vw;
+        }
+
+        .hero-text-head h1 {
+            font-size: 6vw;
+        }
+
+        .hero-content {
+            display: block;
+        }
+
+        .hero-text {
+            display: block;
+        }
+
+
+        .hero-text-para p {
+            font-size: 3vw;
+            letter-spacing: -1;
+        }
+
+        /* .discover section begin{} */
+        .discover {
+            padding: 40px 20px;
+            display: grid;
+            gap: 20px;
+
+        }
+
+        .discover-1 {
+            line-height: 27px;
+        }
+
+        .discover-1 a {
+            font-size: 3vw;
+        }
+
+        .discover-1 h2 {
+            font-size: 6.3vw;
+            font-weight: unset;
+        }
+
+        .discover-btn {
+            padding: 5px 10px;
+            width: 100%;
+            justify-content: center;
+            font-size: 3vw;
+        }
+
+        .arrow-yellow {
+            width: 10px;
+        }
+
+        .client {
+            padding: 40px 20px 0px;
+
+        }
+
+        .client-content h3 {
+            font-size: 5vw;
+            width: 300px;
+            line-height: 1.6;
+            margin-top: 5px;
+        }
+
+        .client-content p {
+            font-size: 3.5vw;
+            letter-spacing: 0;
+            width: 80vw;
+        }
+
+        .client-btn-1 {
+            padding-top: 0;
+            padding-bottom: 0;
+            font-size: 4vw;
+        }
+
+        .client-btn-2 {
+            padding-top: 0;
+            padding-bottom: 0;
+            font-size: 4vw;
+        }
+
+        .client-btn-3 {
+            padding-top: 0;
+            padding-bottom: 0;
+            font-size: 4vw;
+        }
+
+        .client-btn-1 img {
+            width: 4vw;
+        }
+
+        .client-btn-2 img {
+            width: 4vw;
+        }
+
+        .client-btn-3 img {
+            width: 4vw;
+        }
+
+        .client .discover-2 .discover-btn p {
+            font-size: 2vw;
+        }
+
+        .client .discover-btn {
+            font-size: 2.5vw;
+            position: absolute;
+            top: 10%;
+            width: unset;
+            font-size: 2vw;
+            padding: 4px 19px;
+            left: 60%;
+            top: 56px;
+        }
+
+        .service-text {
+            gap: -10px;
+        }
+
+        .service {
+            padding: 60px 20px;
+        }
+
+        .service-content-1,
+        .service-content-2 {
+            font-size: 3vw;
+        }
+
+        .projects {
+            padding: 30px 20px;
+        }
+
+        .projects-1,
+        .projects-2,
+        .projects-3 {
+            height: 75vw;
+        }
+
+        .slider {
+            padding: 20px 20px;
+            gap: 5px;
+        }
+
+        .slider div {
+            font-size: 1.5vw;
+            padding: 5px min(5px);
+            font-weight: 400;
+        }
+
+        /* .videos */
+        .videos {
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: min(2rem, 3rem);
+            padding-bottom: min(2rem, 3rem);
+        }
+
+        .video-section-1,
+        .video-section-2 {
+            width: 100%;
+        }
+
+        .video-content-1 h4,
+        .video-content-2 h4 {
+            font-size: 5vw;
+            margin-bottom: 5px;
+        }
+
+        .video-content-1 p,
+        .video-content-2 p {
+            font-size: 3.5vw;
+        }
+
+        .technology {
+            padding: 20px 20px 0px;
+
+        }
+
+        .technology-1 img {
+            width: 22vw;
+        }
+
+        .technology-2 a {
+            font-size: 3vw;
+        }
+
+        .technology-2 p {
+            font-size: 3vw;
+        }
+
+        .three-boxes {
+            padding: 20px 20px 60px;
+        }
+
+        .three-content-box {
+            padding: 10px 10px;
+            /* width: 100%; */
+        }
+
+        .box-1 p,
+        .box-2 p,
+        .box-3 p {
+            font-size: 2.7vw;
+
+        }
+
+        footer {
+            padding: 60px 20px;
+        }
+
+        .footer-list-5 ul li .discover-2 .discover-btn img {
+            font-size: 10px;
+            width: 10px;
+        }
+
+        .footer-list {
+            flex-wrap: wrap;
+        }
+
+        .footer-lists .footer-list-1,
+        .footer-lists .footer-list-2,
+        .footer-lists .footer-list-3,
+        .footer-lists .footer-list-4 {
+            width: 140px;
+        }
+
+        .news {
+            padding: 0px 0px;
+            font-size: 5px;
+            text-align: center;
+        }
+
+        .footer-list-1 ul li,
+        .footer-list-2 ul li,
+        .footer-list-3 ul li,
+        .footer-list-4 ul li {
+            font-size: 3vw;
+            width: 100%;
+        }
+    }
